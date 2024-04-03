@@ -9,7 +9,7 @@ You will not find that here.
 
 
 ## Recipes
-[Baked Enchiladas](./baked-enchiladas/)
-[Lentil Soup](./lentil-soup/)
-[Tomato Soup](./tomato-soup/)
-[Zuppa Toscana](./zuppa-toscana/)
+- [Baked Enchiladas](./baked-enchiladas/)
+- [Lentil Soup](./lentil-soup/)
+- [Tomato Soup](./tomato-soup/)
+- [Zuppa Toscana](./zuppa-toscana/)
