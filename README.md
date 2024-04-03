@@ -8,6 +8,8 @@ I hate recipe guides that give you a life story before getting to the ingredient
 You will not find that here.
 
 
-
 ## Recipes
 [Baked Enchiladas](./baked-enchiladas/)
+[Lentil Soup](./lentil-soup/)
+[Tomato Soup](./tomato-soup/)
+[Zuppa Toscana](./zuppa-toscana/)
