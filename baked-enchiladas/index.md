@@ -1,3 +1,5 @@
+![Enchiladas](./image.png)
+
 # Ingredients
 - 1lb Ground Beef
 - 1 Onion
@@ -20,5 +22,3 @@ You will need:
 5. Once the dish is full, pour some sauce along the top of the tortillas until the tortillas are covered but not submerged, then a layer of cheese on top
 6. Cook uncovered in the oven for 20 minutes
 7. Once cookeded, add your toppings to the top and serve
-
-[< Home](https://cookbook.paige.gay)
