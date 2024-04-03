@@ -1,5 +1,3 @@
-[< home](https://cookbook.paige.gay)
-
 # Ingredients
 - 1lb Ground Beef
 - 1 Onion
