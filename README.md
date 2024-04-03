@@ -1,4 +1,3 @@
-# Paige's Cookbook
 my old cookbook was made for gitbook but they don't support gitbook-cli anymore so I'm just doing markdown. I may pretty it up later.
 
 I make changes to these recipes all the time while cooking, and mostly use this as a guide to point me in the right direction. I encourage you to do the same.
