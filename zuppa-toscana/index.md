@@ -1,3 +1,6 @@
+# Notes
+This is an Olive Garden copycat, do note that a lot of times it's actually cheaper just to buy a gallon from them than to buy all these ingredients.
+
 # Ingredients
 - 4-6 strips bacon
 - 1 lb. Hot Italian sausage, ground or casings removed
