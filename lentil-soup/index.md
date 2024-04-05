@@ -1,4 +1,7 @@
-Ingredients
+# Notes
+I got this recipe from my wonderful aunt.
+
+# Ingredients
 - 1lb italian sausage
 - 1 bag lentils (rinsed)
 - 1 bag spinach
@@ -12,7 +15,7 @@ Ingredients
 - 5-8 sprigs of cilantro
 - season to taste w/ garlic powder, parsley, thyme, basil, crushed red pepper, salt, and black pepper
 
-Prep
+# Cooking
 1. Cook sausage in a large pot over medium high heat.
 2. Add onion and celery, cook until softened.
 3. Add garlic, cook until fragrant (30-60 sec).

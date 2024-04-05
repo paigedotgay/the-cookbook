@@ -1,3 +1,6 @@
+# Notes
+This is [Chef John's Rigatoni al Segreto.](https://www.allrecipes.com/recipe/260014/rigatoni-al-segreto-rigatoni-with-secret-sauce/)
+
 # Ingredients
 - 1 Onion
 - Garlic
