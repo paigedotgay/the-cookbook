@@ -1,3 +1,6 @@
+# Notes
+This recipe is from [Adam Regusea](https://youtu.be/r4bGuZSur0E)
+
 # Ingredients
 - 1 onion, chopped
 - 1 fenel bulb, chopped (alternatively, replace with a second onion and fenel seeds, which are easier to find)
