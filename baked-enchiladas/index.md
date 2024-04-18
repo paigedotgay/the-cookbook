@@ -1,5 +1,3 @@
-![Enchiladas](./image.png)
-
 # Ingredients
 - 1lb Ground Beef
 - 1 Onion
