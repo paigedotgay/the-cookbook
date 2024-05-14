@@ -12,7 +12,7 @@ This recipe is from [Adam Regusea](https://youtu.be/r4bGuZSur0E)
 # Prep
 1. Melt butter in a large pot.
 2. Add onion, fenel, and celery seed. cook until starting to soften.
-3. Add tomatoes, either break them up with a potato masher, or keep a close eye on them.
-4. Add fluid of choice until soup is mostly covered.
+3. Add tomatoes, allow to cook for about 2 minutes, then blend and your fluid of choice until soup is mostly covered.
+4. Blend, either pour everything into a blender, or use an immersion blender.
 5. Cook on medium low for about an hour, stirring every 15-20 min to prevent stickage, add fluid if needed.
 6. Serve with chili oil on top (optional), freeze leftovers.
