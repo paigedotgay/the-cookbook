@@ -19,4 +19,4 @@ You will need:
 4. Once the meat is browned, add a small amount of your meat and onion mix, and some cheese to your tortillas, and roll before adding to the casserole dish in a single layer
 5. Once the dish is full, pour some sauce along the top of the tortillas until the tortillas are covered but not submerged, then a layer of cheese on top
 6. Cook uncovered in the oven for 20 minutes
-7. Once cookeded, add your toppings to the top and serve
+7. Once cooked, add your toppings to the top and serve
